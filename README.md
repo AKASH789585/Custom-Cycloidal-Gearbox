@@ -15,4 +15,5 @@ us.sumitomodrive.com](https://en.wikipedia.org/wiki/Cycloidal_drive#:~:text=Cycl
 The custom cycloidal gearbox was designed to meet specific performance and packaging goals. Primary objectives included high reduction ratio and torque capacity in a very compact form, with minimal backlash for precision motion. Durability and repeatability were also emphasized. For example, leveraging the inherent cycloidal strength, the design targeted transmitting maximal torque evenly through all lobes
 [en.wikipedia.org
 us.sumitomodrive.com](https://us.sumitomodrive.com/en-us/cycloidal-gearboxes-types-single-multi-stage#:~:text=,load%20applications)
-. Key requirements and constraints included:
+![Screenshot 2025-05-09 011354](https://github.com/user-attachments/assets/c6d5fb2e-0915-49d4-833e-b4a10b4f1fce)
+
